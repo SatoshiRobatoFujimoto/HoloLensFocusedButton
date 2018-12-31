@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>FocusedButton</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\ドキュメント\FocusedButton\App\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\ドキュメント\FocusedButton\</UnityProjectDir>
+        <UnityWSAPlayerDir>D:\Program Files\Unity 2017.4.11f1\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

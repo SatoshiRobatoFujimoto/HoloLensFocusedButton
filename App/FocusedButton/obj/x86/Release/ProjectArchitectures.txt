@@ -1,0 +1,2 @@
+D:\ドキュメント\FocusedButton\App\FocusedButton\FocusedButton.csproj;x86
+D:\ドキュメント\FocusedButton\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
